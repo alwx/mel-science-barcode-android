@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MEL Barcode</string>
+    <string name="ok">ОК</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="main_title">MEL Barcode (%d)</string>
+
+    <string name="main_empty">Нажмите на штрих-код внизу, чтобы начать сканирование</string>
+    <string name="main_barcode_incorrect">Неверный штрих-код</string>
+    <string name="main_barcode_exists" formatted="false">Штрих-код %d был добавлен ранее</string>
+    <string name="main_menu_upload">Загрузить на сервер</string>
+
+    <string name="main_upload_confirmation">Вы действительно хотите загрузить список на сервер? Он будет удален с вашего устройства после загрузки.</string>
+    <string name="main_upload_failure">Невозможно загрузить список на сервер. Проверьте свое подключение к интернету и попробуйте еще раз.</string>
+    <string name="main_upload_success">Успешно загружено.</string>
+
+    <string name="main_delete_confirmation" formatted="false">Вы хотите удалить штрих-код %d?</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MEL Barcode</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="main_title">MEL Barcode (%d)</string>
+
+    <string name="main_empty">Press barcode icon to scan</string>
+    <string name="main_barcode_incorrect">Incorrect barcode</string>
+    <string name="main_barcode_exists" formatted="false">Barcode %d has already been added</string>
+    <string name="main_menu_upload">Upload</string>
+
+    <string name="main_upload_confirmation">Do you want to upload the list to the server? It will be deleted from your device.</string>
+    <string name="main_upload_failure">Unable to upload. Please, check your internet connection and try again.</string>
+    <string name="main_upload_success">Uploaded successfully.</string>
+
+    <string name="main_delete_confirmation" formatted="false">Do you want to delete the barcode %d?</string>
+</resources>
